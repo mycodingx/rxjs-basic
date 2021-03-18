@@ -7,7 +7,7 @@
 ## Index
 
 - Installing RxJS / Setting up a dev environment
-- [Observables & Subscriptions](./docs/observable.md)
+- [Observables & Subscriptions](https://github.com/mycodingx/rxjs-basic/tree/observables) | **[Read Docs](./docs/observable.md)**
 - Subjects
 - Operators
 
