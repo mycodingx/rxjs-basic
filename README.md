@@ -127,7 +127,7 @@ Create an **index.html** file and paste the following contents:
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Learn RxJS with Coursetro</title>
+    <title>RxJS Basics</title>
 
     <style>
         body { font-family: 'Arial'; background: #ececec; }
