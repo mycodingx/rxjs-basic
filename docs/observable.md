@@ -1,5 +1,7 @@
 # Observables, Observers & Subscriptions
 
+---
+
 # <img src="../src/assets/legend.png" alt="RxJS Logo" >
 
 ## What is a Stream?

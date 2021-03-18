@@ -7,7 +7,7 @@
 ## Index
 
 - Installing RxJS / Setting up a dev environment
-- Observables & Subscriptions
+- [Observables & Subscriptions](./docs/observable.md)
 - Subjects
 - Operators
 
